@@ -1,0 +1,1 @@
+INSERT INTO `server_traders` (`id`, `classname`, `instance`, `status`, `static`, `desc`) VALUES (900, 'HouseWife5', 11, 'neutral', '["FoodBioMeat","ItemZombieParts",1,1,"buy","Zombie Parts","Bio Meat",101]', 'Food and drinks');
